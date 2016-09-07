@@ -1,5 +1,0 @@
-Name: Leah Castellanos
-Major: Applied Computer Graphics
-Why are you in this class: To complete major
-What do you think you'll learn: Coding and coding language
-Anything else you'd like to share with the class: This is my first computer science class

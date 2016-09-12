@@ -1,4 +1,4 @@
-//credits: RayHanz14
+//credits: C. Sharper
 
 #include <iostream>
 using namespace std;

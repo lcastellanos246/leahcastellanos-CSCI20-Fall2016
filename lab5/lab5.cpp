@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 struct MonsterObjects {
         const char *head;
         const char *eyes;
@@ -25,6 +26,7 @@ int main()
     cout << "Monster Two: Franken, Spirtem, Spritem, Wackus, Vegitas." << endl;
     cout << "Monster Three: Happy, Wackus, Vegitas, Vegitas, Wackus." << endl;
     cout << "Monster Four: Zombus, Vegitas, None, Wackus, Spritem." <<endl;
+    
 
     
 }
